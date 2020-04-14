@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816616875948",
+    "firebase_url": "https://mytodolist2020.firebaseio.com",
+    "project_id": "mytodolist2020",
+    "storage_bucket": "mytodolist2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816616875948:android:129736c6341c218b1e3c09",
+        "android_client_info": {
+          "package_name": "edu.rockvalleycollege.mytodolist2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816616875948-balu7uvokmor7jnn5odlq5epqqufh1dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rockvalleycollege.mytodolist2020",
+            "certificate_hash": "e6e435e9244f75c7bdf6926d7f9047f8252580c7"
+          }
+        },
+        {
+          "client_id": "816616875948-b16a2fdg437tvegcplgc6tftooge7s7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADh0ODt9DLqdVXbaCR7DbeXcsPRF1XClk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816616875948-b16a2fdg437tvegcplgc6tftooge7s7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
